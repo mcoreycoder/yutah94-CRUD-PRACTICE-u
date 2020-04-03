@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/yutah94-CRUD-PRACTICE-ui/static/css/main.0c4d9924.chunk.css",
-    "main.js": "/yutah94-CRUD-PRACTICE-ui/static/js/main.9574ca9d.chunk.js",
-    "main.js.map": "/yutah94-CRUD-PRACTICE-ui/static/js/main.9574ca9d.chunk.js.map",
+    "main.js": "/yutah94-CRUD-PRACTICE-ui/static/js/main.9af1b25a.chunk.js",
+    "main.js.map": "/yutah94-CRUD-PRACTICE-ui/static/js/main.9af1b25a.chunk.js.map",
     "runtime-main.js": "/yutah94-CRUD-PRACTICE-ui/static/js/runtime-main.ed5f7331.js",
     "runtime-main.js.map": "/yutah94-CRUD-PRACTICE-ui/static/js/runtime-main.ed5f7331.js.map",
     "static/js/2.e07a880d.chunk.js": "/yutah94-CRUD-PRACTICE-ui/static/js/2.e07a880d.chunk.js",
     "static/js/2.e07a880d.chunk.js.map": "/yutah94-CRUD-PRACTICE-ui/static/js/2.e07a880d.chunk.js.map",
     "index.html": "/yutah94-CRUD-PRACTICE-ui/index.html",
-    "precache-manifest.25b2732aa9920908ed9ed55b8151901a.js": "/yutah94-CRUD-PRACTICE-ui/precache-manifest.25b2732aa9920908ed9ed55b8151901a.js",
+    "precache-manifest.55d9879319d24d123841387e5ac7df7a.js": "/yutah94-CRUD-PRACTICE-ui/precache-manifest.55d9879319d24d123841387e5ac7df7a.js",
     "service-worker.js": "/yutah94-CRUD-PRACTICE-ui/service-worker.js",
     "static/css/main.0c4d9924.chunk.css.map": "/yutah94-CRUD-PRACTICE-ui/static/css/main.0c4d9924.chunk.css.map",
     "static/js/2.e07a880d.chunk.js.LICENSE.txt": "/yutah94-CRUD-PRACTICE-ui/static/js/2.e07a880d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ed5f7331.js",
     "static/js/2.e07a880d.chunk.js",
     "static/css/main.0c4d9924.chunk.css",
-    "static/js/main.9574ca9d.chunk.js"
+    "static/js/main.9af1b25a.chunk.js"
   ]
 }

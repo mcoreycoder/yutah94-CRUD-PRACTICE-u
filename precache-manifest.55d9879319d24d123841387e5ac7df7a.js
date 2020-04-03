@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a5c8a8f56324a3a557e61ab2722d0c7",
+    "revision": "151fdcd76eb546c65149cb2f84ff57bf",
     "url": "/yutah94-CRUD-PRACTICE-ui/index.html"
   },
   {
-    "revision": "46f70eb0d18ee3871d10",
+    "revision": "ce92ca14fda9396a7306",
     "url": "/yutah94-CRUD-PRACTICE-ui/static/css/main.0c4d9924.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yutah94-CRUD-PRACTICE-ui/static/js/2.e07a880d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "46f70eb0d18ee3871d10",
-    "url": "/yutah94-CRUD-PRACTICE-ui/static/js/main.9574ca9d.chunk.js"
+    "revision": "ce92ca14fda9396a7306",
+    "url": "/yutah94-CRUD-PRACTICE-ui/static/js/main.9af1b25a.chunk.js"
   },
   {
     "revision": "74802e79eb5e1f7fb451",

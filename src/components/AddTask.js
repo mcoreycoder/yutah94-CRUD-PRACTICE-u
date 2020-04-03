@@ -26,8 +26,14 @@ export class AddTask extends Component {
         axios.post(`${uriBase}/api/todos/`, body )
         .then(res => {
             console.log(res)
-        })
+        }).then((res)=>{
+            this.setState({todos: '', responsible: ''}, ()=> console.log("cleared state!"))
+            
+            return res
+    }
+        )
         .then(res => {
+            // console.log("this.props.list.current:", this.props.list)
             this.props.list.current.updateList();
         })
         .catch(err => {
@@ -45,6 +51,7 @@ export class AddTask extends Component {
                             type="text" 
                             className="form-control"
                             name="todos"
+                            value={this.state.todos}
                             onChange={this.handleChange}
                             />
                     <h4 className="gimmespace">Responsible:</h4>
@@ -52,13 +59,14 @@ export class AddTask extends Component {
                             type="text" 
                             className="form-control"
                             name="responsible" 
+                            value={this.state.responsible}
                             onChange={this.handleChange}
                             />
                         <input 
                         type="submit" 
                         className="form-control btn btn-warning f"
                         value="Add Todos"
-                        onClick={this.addTodos}
+                        // onClick={this.addTodos}
                         />
                 </label>
             </form>
